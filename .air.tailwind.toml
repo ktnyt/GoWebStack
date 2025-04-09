@@ -1,0 +1,4 @@
+[build]
+cmd = "mise x -- bunx tailwindcss -i src/input.css -o assets/styles.css --watch"
+bin = "/usr/bin/true"
+include_ext = ["html", "css", "templ"]

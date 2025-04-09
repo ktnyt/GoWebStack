@@ -1,0 +1,4 @@
+[build]
+cmd = "mise x -- templ generate"
+bin = "/usr/bin/true"
+include_ext = ["templ"]

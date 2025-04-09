@@ -1,0 +1,3 @@
+[build]
+cmd = "mise x -- go build -o bin/server ./cmd/server"
+bin = "./bin/server"
